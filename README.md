@@ -26,3 +26,6 @@ We even topic-modeled the plot synopses in order to extract latent unstructured 
 Our ultimate XGBoost classifier significantly outperformed a scrappy naive bayes classifier, and that same naive bayes classifier thankfully outperformed a baseline/dummy classifier.
 
 ![](https://github.com/emmabernstein1/Good-Movie-Bad-Movie/blob/master/Images/ROC.png)
+
+This shows what factors play important roles in critically acclaimed movies.
+Moving forward, we could look into what factors play important roles in a movie's commercial success and compare the results.
