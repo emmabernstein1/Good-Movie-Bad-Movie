@@ -29,3 +29,5 @@ Our ultimate XGBoost classifier significantly outperformed a scrappy naive bayes
 
 This shows what factors play important roles in critically acclaimed movies.
 Moving forward, we could look into what factors play important roles in a movie's commercial success and compare the results.
+
+Thanks for reading!
